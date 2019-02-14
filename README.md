@@ -18,3 +18,7 @@ technology will become mainstream in the near future.
 ----
 
 While this does implicate very fast potential internet speeds, the biggest concern by a far margin seems to be the cost of implementation, both in monetary and time aspects. Nevertheless, this is a particularly interesting development in the field of fiber optics. - Andrew Zaw (az1332)
+
+----
+
+The idea certainly strikes me as very intruiging. However, from a realistic point of view, the actual implementation gives rise to questions such as: Do the benefits of this technology outweigh the possibly high costs? What are the potential downsides (if any) of having extremely fast interest speeds? - Austin Wu (aw2793)
