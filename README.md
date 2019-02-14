@@ -15,3 +15,6 @@ nations are astounding. Google states that this technology is capable of a relia
 Google already has plans to deploy this technology in parts of India and has recently partnered with AP Fiber. This 
 technology will become mainstream in the near future.
 
+----
+
+While this does implicate very fast potential internet speeds, the biggest concern by a far margin seems to be the cost of implementation, both in monetary and time aspects. Nevertheless, this is a particularly interesting development in the field of fiber optics. - Andrew Zaw (az1332)
